@@ -1,2 +1,2 @@
-import styleObj from './index.css'
-console.log(styleObj['my-class'])
+console.warn(123)
+console.log("styleObj['my-class']")
